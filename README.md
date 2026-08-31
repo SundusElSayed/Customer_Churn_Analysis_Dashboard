@@ -23,13 +23,13 @@ This project uses an [Excel dataset](./customr_churn_dataset.csv) for analysis.
 ## Screenshots
 
 ### Data Check
-![Data Check](./datacheck.png)
+![Data Check](./DataCheck.png)
 
 ### Age Grouping
-![Age Grouping](./age_grouping.jpeg)
+![Age Grouping](./Age%20Grouping.png)
 
 ### Contract Analysis
-![Contract Analysis](./contract_analysis.jpeg)
+![Contract Analysis](./Contracts.png)
 
 ### Plans Analysis
-![Plans Analysis](./plans_analysis.jpeg)
+![Plans Analysis](./Iplan.png)
