@@ -23,7 +23,7 @@ This project uses an [Excel dataset](./customr_churn_dataset.csv) for analysis.
 ## Screenshots
 
 ### Data Check
-![Data Check](./data_check.jpeg)
+![Data Check](./datacheck.png)
 
 ### Age Grouping
 ![Age Grouping](./age_grouping.jpeg)
